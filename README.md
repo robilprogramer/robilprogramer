@@ -1,16 +1,17 @@
-# **Portofolio**
+# Hai, saya Robil! 👋
 
-**Nama**: Robil  
-**Posisi**: Full-stack Developer  
-**Email**: robilputra19@gmail.com  
-**Telepon**: 082387018613  
-**LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robil)  
-**GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/robilprogramer)  
-**Alamat**: Jakarta
+Seorang Full-Stack Developer Enthusiast 👨‍💻
+
+Saya berfokus pada pengembangan aplikasi web yang efisien, skalabel, dan ramah pengguna menggunakan berbagai teknologi.
+
+-   🌍 Saya berbasis di [Jakarta, Indonesia](https://en.wikipedia.org/wiki/Jakarta)
+-   🔭 Saat ini saya bekerja dengan [React](https://react.dev), [Next.js](https://nextjs.org), [Spring Boot](https://spring.io/projects/spring-boot), [Python](https://www.python.org/), [Golang](https://golang.org/), dan [Flutter](https://flutter.dev/)
+-   🖥️ Lihat situs pribadi saya di [https://robil.dev](https://robil.dev)
+-   ✉️ Anda dapat menghubungi saya di [robilputra19@fmail.com](mailto:robilputra19@gmail.com)
 
 ---
 
-## **👨‍💻 Profil**
+## **👨‍💻 Tentang Saya**
 
 Saya adalah seorang **Full-stack Developer** dengan pengalaman lebih dari 6 tahun dalam membangun aplikasi web dan mobile menggunakan berbagai teknologi terkini. Terampil dalam pengembangan frontend dan backend, serta berpengalaman dalam bekerja dengan berbagai framework, bahasa pemrograman, dan arsitektur seperti microservices. Saya juga memiliki pengalaman dalam pengelolaan container dan orkestrasi menggunakan Docker dan Kubernetes serta pengelolaan messaging system seperti Kafka dan Redis.
 
