@@ -7,7 +7,7 @@ Saya berfokus pada pengembangan aplikasi web yang efisien, skalabel, dan ramah p
 -   🌍 Saya berbasis di [Jakarta, Indonesia](https://en.wikipedia.org/wiki/Jakarta)
 -   🔭 Saat ini saya bekerja dengan [React](https://react.dev), [Next.js](https://nextjs.org), [Spring Boot](https://spring.io/projects/spring-boot), [Python](https://www.python.org/), [Golang](https://golang.org/), dan [Flutter](https://flutter.dev/)
 -   🖥️ Lihat situs pribadi saya di [https://robil.dev](https://robil.dev)
--   ✉️ Anda dapat menghubungi saya di [robilputra19@fmail.com](mailto:robilputra19@gmail.com)
+-   ✉️ Anda dapat menghubungi saya di [robilputra19@gmail.com](mailto:robilputra19@gmail.com)
 
 ---
 
