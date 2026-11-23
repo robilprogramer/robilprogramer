@@ -48,7 +48,7 @@ const robil = {
   },
   architecture: ["Microservices", "Event-Driven", "Clean Architecture", "Serverless"],
   currentlyLearning: ["Agentic AI", "Rust", "Edge Runtime", "Platform Engineering"],
-  hireable: true,
+  motto: "Keep learning, keep building 🚀",
 };
 ```
 
@@ -201,12 +201,12 @@ const robil = {
 ## 🤝 Let's Connect
 
 <p align="center">
-  Terbuka untuk <b>kolaborasi</b>, <b>freelance</b>, dan <b>peluang full-time</b> — terutama di bidang Web, Mobile, dan AI. 🚀
+  Senang berdiskusi soal <b>teknologi</b>, <b>open source</b>, dan <b>berbagi ilmu</b> — terutama seputar Web, Mobile, dan AI. 🚀
 </p>
 
 <p align="center">
   <a href="https://robil.chatbotdev.online"><img src="https://img.shields.io/badge/🌐%20Website-0f0c29?style=for-the-badge" alt="Website"/></a>
-  <a href="mailto:robilputra19@gmail.com"><img src="https://img.shields.io/badge/✉️%20Hire%20Me-24C6DC?style=for-the-badge" alt="Hire me"/></a>
+  <a href="mailto:robilputra19@gmail.com"><img src="https://img.shields.io/badge/✉️%20Say%20Hello-24C6DC?style=for-the-badge" alt="Say hello"/></a>
   <a href="https://github.com/robilprogramer"><img src="https://img.shields.io/badge/⭐%20Follow%20on%20GitHub-302b63?style=for-the-badge" alt="Follow"/></a>
 </p>
 
